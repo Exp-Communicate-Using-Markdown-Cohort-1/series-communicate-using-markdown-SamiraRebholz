@@ -4,3 +4,6 @@
 ```
 <h1>Hello World</h1>
 ```
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
